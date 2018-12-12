@@ -1,0 +1,54 @@
+================= JOGO DA VELHA =================
+1 Jogador vs Maquina
+Jogadores: k (X) contra Maquina (O)
+------------------------------
+- | - | - | 
+- | - | - | 
+- | - | - | 
+
+Jogador: k jogou na Linha: 0 e Coluna: 0
+------------------------------
+X | - | - | 
+- | - | - | 
+- | - | - | 
+
+Jogador: Maquina Jogou na Linha: 1 e Coluna: 0
+------------------------------
+X | - | - | 
+O | - | - | 
+- | - | - | 
+
+Jogador: k jogou na Linha: 0 e Coluna: 1
+------------------------------
+X | X | - | 
+O | - | - | 
+- | - | - | 
+
+Jogador: Maquina Jogou na Linha: 1 e Coluna: 2
+------------------------------
+X | X | - | 
+O | - | O | 
+- | - | - | 
+
+Jogador: k jogou na Linha: 1 e Coluna: 1
+------------------------------
+X | X | - | 
+O | X | O | 
+- | - | - | 
+
+Jogador: Maquina Jogou na Linha: 2 e Coluna: 2
+------------------------------
+X | X | - | 
+O | X | O | 
+- | - | O | 
+
+Jogador: k jogou na Linha: 0 e Coluna: 2
+------------------------------
+X | X | X | 
+O | X | O | 
+- | - | O | 
+
+================= JOGO TERMINOU =================
+O VENCEDOR É (X): k!!
+================= JOGO TERMINOU =================
+O VENCEDOR É (X): k!!

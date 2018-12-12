@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\samue\Dropbox\IFPB\P3\POO\Projetos\Jogo da Velha\Jogo da velha\swingdinamico\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
